@@ -1,6 +1,6 @@
 echo "enter the limit"
 read n
-echo "enter the numbers"
+echo "enter the values
 for(( i=0 ;i < n; i++ ))
 do
 read m
