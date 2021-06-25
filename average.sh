@@ -1,4 +1,4 @@
-echo "Enter the size n:"
+echo "Enter the values of n:"
 read n
 sum=0;
 echo "Enter numbers:"
